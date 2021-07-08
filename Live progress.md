@@ -15,7 +15,7 @@ Plan all [stage 0 in RS School](https://github.com/rolling-scopes-school/tasks/b
 > - [ ] Проверить [записаны ли на курс](https://app.rs.school/course/score?course=js-fe-preschool) если нет, [записаться](https://app.rs.school/registry/student?course=js-fe-preschool)
 > - [ ] [Указать в нике Discord свой GitHub аккаунт](https://docs.rs.school/#/rs-school-chats)
 > - [ ] Сохранить в закладки [расписание курса](https://app.rs.school/course/schedule?course=js-fe-preschool)
-> - [ ] Выполнить тест "RSS Test" в RS APP ([Сдача заданий в RS APP](https://docs.rs.school/#/rs-app-tasks?id=%d0%a2%d0%b5%d1%81%d1%82%d1%8b)).
+> - [ ] Выполнить тест "RSS Test" в RS APP ([Сдача заданий в RS APP](https://docs.rs.school/#/rs-app-tasks?id=%d0%a2%d0%b5%d1%81%d1%82%d1%8b)) **12.07.2021 deadline**
 - [ ] Модуль "Профессия "JS/Front-end разработчик"/Module "Profession "JS/Front-end developer"
 > - [X] 06.07.2021 Посмотреть [запись вебинара](https://www.youtube.com/watch?v=5g1U06QjWZk).
 > - [ ] Ознакомиться с [требованиями к JS/Front-end разработчику в EPAM](https://github.com/rolling-scopes-school/tasks/blob/master/stage0/modules/js-fe-developer/js-l1-position-requirements.md)
@@ -31,7 +31,14 @@ Plan all [stage 0 in RS School](https://github.com/rolling-scopes-school/tasks/b
 >>> - [Документ](https://learn.javascript.ru/document)
 >>> - [Введение в события](https://learn.javascript.ru/events)
 - [ ] Модуль "Основы HTML" /HTML Basics Module
-- [ ] 
+> - [ ] Пройти [интерактивный курс](https://ru.code-basics.com/languages/html) (11 часов)
+> - [ ] Пройти тест "Test HTML Basics [RU]" в RS APP > Auto Test **12.07.2021 deadline**
+>> Дополнительные материалы
+>> - [ ] https://webref.ru/course/html-basics - 2h
+>> - [ ] https://webref.ru/course/html-content - 2h
+>> - [ ] https://webref.ru/course/html-tutorial - 4h
+>> - [ ] https://webref.ru/course/section - 2h
+>> - [ ] https://webref.ru/course/html5-form - 2h
 2. Неделя #2/Week #2
 - [ ] Модуль "Chrome Dev Tools, VS Code, Terminal"/Module "Chrome Dev Tools, VS Code, Terminal"
 - [ ] Модуль "Знакомство с системой контроля версий Git"/Introduction to Git Version Control Module
