@@ -1,4 +1,4 @@
-# Learning the profession JS front-end-web developer (my personal experience)
+# [Learning the profession JS front-end-web developer (my personal experience in Rolling Scopes School) in REAL TIME (click)](https://github.com/Lisouskij/Learning-the-profession-JS-front-end-web-developer-my-personal-experience-/blob/main/Live%20progress.md)
 
 This project for improve my life and other people. Here you can see my progress in learning process start for zero level.
 
