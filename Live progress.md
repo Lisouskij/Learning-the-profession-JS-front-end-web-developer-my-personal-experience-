@@ -6,7 +6,7 @@ Plan all [stage 0 in RS School](https://github.com/rolling-scopes-school/tasks/b
 
 ## Программа обучения и ее выполнение в реальном времени/Training program and its progress in real time
 1. Неделя #1/Week #1
-- [ ] Модуль "Знакомство с RS School"/Module "Introduction to RS School"
+- [ ] [Модуль "Знакомство с RS School"/Module "Introduction to RS School"](https://github.com/rolling-scopes-school/tasks/tree/master/stage0/modules/rs-school-intro)
 > - [ ] Посмотреть [запись вводного занятия набора 2021Q1](https://www.youtube.com/watch?v=D9Q1eSzmARw) - 2 hours
 > - [ ] Посмотреть [запись "Как учиться в RS App"](https://www.youtube.com/watch?v=v_69DaeZ7dM) - 1 hour
 > - [ ] Прочитать [документацию о курсе](https://docs.rs.school/)
@@ -17,8 +17,19 @@ Plan all [stage 0 in RS School](https://github.com/rolling-scopes-school/tasks/b
 > - [ ] Сохранить в закладки [расписание курса](https://app.rs.school/course/schedule?course=js-fe-preschool)
 > - [ ] Выполнить тест "RSS Test" в RS APP ([Сдача заданий в RS APP](https://docs.rs.school/#/rs-app-tasks?id=%d0%a2%d0%b5%d1%81%d1%82%d1%8b)).
 - [ ] Модуль "Профессия "JS/Front-end разработчик"/Module "Profession "JS/Front-end developer"
-> - [ ]
-> - [ ]
+> - [X] 06.07.2021 Посмотреть [запись вебинара](https://www.youtube.com/watch?v=5g1U06QjWZk).
+> - [ ] Ознакомиться с [требованиями к JS/Front-end разработчику в EPAM](https://github.com/rolling-scopes-school/tasks/blob/master/stage0/modules/js-fe-developer/js-l1-position-requirements.md)
+> - [ ] Прочесть [рекомендации по изучению английского языка](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/materials/english.md)
+>> Полезные ссылки/Helpful links
+>> - [ ] [Запись YouTube стрима "Профориентация" - 1.5 часа](https://www.youtube.com/watch?v=pQ0hr5U8RL0)
+>> - [ ] [Дорожная карта JS разработчика в 2021](https://github.com/kamranahmedse/developer-roadmap)
+>> - [ ] [Матрица компетентности](https://docs.google.com/spreadsheets/d/e/2PACX-1vRwSn4qxbYHSdQ428OkpArZc4Q22D8dmbzDcRXt-UzkZ1sZfGLoQmm1w-N0Rx_voKLx4i7R_k7cnQgV/pubhtml#)
+>> - [ ] [Отличная книга по JS на русском](https://learn.javascript.ru/) Главы, которые желательно прочитать в первую очередь:
+>>> - [Основы JavaScript](https://learn.javascript.ru/first-steps)
+>>> - [Объекты: основы](https://learn.javascript.ru/object-basics)
+>>> - [Типы данных](https://learn.javascript.ru/data-types)
+>>> - [Документ](https://learn.javascript.ru/document)
+>>> - [Введение в события](https://learn.javascript.ru/events)
 - [ ] Модуль "Основы HTML" /HTML Basics Module
 - [ ] 
 2. Неделя #2/Week #2
