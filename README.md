@@ -1,9 +1,8 @@
-# Learning the profession JS front-end-web developer 
-# (my personal experience)
+# Learning the profession JS front-end-web developer (my personal experience)
 
 This project for improve my life and other people. Here you can see my progress in learning process start for zero level.
 
-Plan all stage 0 in RS School is below.
+Plan all [stage 0 in RS School](https://github.com/rolling-scopes-school/tasks/blob/master/stage0/README.md) is below.
 
 ## Программа обучения/Training program
 1. Неделя #1/Week #1
