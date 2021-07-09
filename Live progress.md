@@ -7,7 +7,7 @@ Plan all [stage 0 in RS School](https://github.com/rolling-scopes-school/tasks/b
 ## Программа обучения и ее выполнение в реальном времени/Training program and its progress in real time
 1. **Неделя #1/Week #1**
 - [ ] [Модуль "Знакомство с RS School"/Module "Introduction to RS School"](https://github.com/rolling-scopes-school/tasks/tree/master/stage0/modules/rs-school-intro)
-> - [ ] Посмотреть [запись вводного занятия набора 2021Q1](https://www.youtube.com/watch?v=D9Q1eSzmARw) - 2 hours
+> - [X] 09.07.2021 Посмотреть [запись вводного занятия набора 2021Q1](https://www.youtube.com/watch?v=D9Q1eSzmARw)/View [record introductory lesson of 2021Q1](https://www.youtube.com/watch?v=D9Q1eSzmARw) - 2 hours
 > - [ ] Посмотреть [запись "Как учиться в RS App"](https://www.youtube.com/watch?v=v_69DaeZ7dM) - 1 hour
 > - [ ] Прочитать [документацию о курсе](https://docs.rs.school/)
 > - [ ] Cоздать [GitHub аккаунт](https://github.com/Lisouskij/)
