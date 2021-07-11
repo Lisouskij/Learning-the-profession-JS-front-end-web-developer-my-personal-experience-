@@ -17,9 +17,9 @@ Plan all [stage 0 in RS School](https://github.com/rolling-scopes-school/tasks/b
 > - [X] 08.07.2021 Сохранить в закладки [расписание курса](https://app.rs.school/course/schedule?course=js-fe-preschool)/Bookmark [course schedule](https://app.rs.school/course/schedule?course=js-fe-preschool)
 > - [X] 11.07.2021 result:100% Выполнить тест "RSS Test" в RS APP ([Сдача заданий в RS APP](https://docs.rs.school/#/rs-app-tasks?id=%d0%a2%d0%b5%d1%81%d1%82%d1%8b))/The "RSS Test" in RS APP  **12.07.2021 dl**
 - [ ] Модуль "Профессия "JS/Front-end разработчик"/Module "Profession "JS/Front-end developer"
-> - [X] 06.07.2021 Посмотреть [запись вебинара](https://www.youtube.com/watch?v=5g1U06QjWZk).
-> - [ ] Ознакомиться с [требованиями к JS/Front-end разработчику в EPAM](https://github.com/rolling-scopes-school/tasks/blob/master/stage0/modules/js-fe-developer/js-l1-position-requirements.md)
-> - [ ] Прочесть [рекомендации по изучению английского языка](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/materials/english.md)
+> - [X] 06.07.2021 Посмотреть [запись вебинара](https://www.youtube.com/watch?v=5g1U06QjWZk)/Watch [webinar recording](https://www.youtube.com/watch?v=5g1U06QjWZk)
+> - [X] 11.07.2021 Ознакомиться с [требованиями к JS/Front-end разработчику в EPAM](https://github.com/rolling-scopes-school/tasks/blob/master/stage0/modules/js-fe-developer/js-l1-position-requirements.md)/Check out [JS / Front-end developer requirements at EPAM](https://github.com/rolling-scopes-school/tasks/blob/master/stage0/modules/js-fe-developer/js-l1-position-requirements.md)
+> - [X] 11.07.2021 Прочесть [рекомендации по изучению английского языка](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/materials/english.md)/Read [tips for learning English](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/materials/english.md)
 >> Полезные ссылки/Helpful links
 >> -  [Запись YouTube стрима "Профориентация" - 1.5 часа](https://www.youtube.com/watch?v=pQ0hr5U8RL0)
 >> -  [Дорожная карта JS разработчика в 2021](https://github.com/kamranahmedse/developer-roadmap)
