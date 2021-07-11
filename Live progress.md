@@ -6,25 +6,25 @@ Plan all [stage 0 in RS School](https://github.com/rolling-scopes-school/tasks/b
 
 ## Программа обучения и ее выполнение в реальном времени/Training program and its progress in real time
 1. **Неделя #1/Week #1**
-- [ ] [Модуль "Знакомство с RS School"/Module "Introduction to RS School"](https://github.com/rolling-scopes-school/tasks/tree/master/stage0/modules/rs-school-intro)
-> - [ ] Посмотреть [запись вводного занятия набора 2021Q1](https://www.youtube.com/watch?v=D9Q1eSzmARw) - 2 hours
-> - [ ] Посмотреть [запись "Как учиться в RS App"](https://www.youtube.com/watch?v=v_69DaeZ7dM) - 1 hour
-> - [ ] Прочитать [документацию о курсе](https://docs.rs.school/)
-> - [ ] Cоздать [GitHub аккаунт](https://github.com/Lisouskij/)
-> - [ ] Заполнить студенческий [профайл в RS APP](https://app.rs.school/). Вход через [GitHub аккаунт](https://github.com/Lisouskij/). 
-> - [ ] Проверить [записаны ли на курс](https://app.rs.school/course/score?course=js-fe-preschool) если нет, [записаться](https://app.rs.school/registry/student?course=js-fe-preschool)
-> - [ ] [Указать в нике Discord свой GitHub аккаунт](https://docs.rs.school/#/rs-school-chats)
-> - [ ] Сохранить в закладки [расписание курса](https://app.rs.school/course/schedule?course=js-fe-preschool)
-> - [ ] Выполнить тест "RSS Test" в RS APP ([Сдача заданий в RS APP](https://docs.rs.school/#/rs-app-tasks?id=%d0%a2%d0%b5%d1%81%d1%82%d1%8b)) **12.07.2021 deadline**
+- [X] 11.07.2021 [Модуль "Знакомство с RS School"/Module "Introduction to RS School"](https://github.com/rolling-scopes-school/tasks/tree/master/stage0/modules/rs-school-intro)
+> - [X] 09.07.2021 Посмотреть [запись вводного занятия набора 2021Q1](https://www.youtube.com/watch?v=D9Q1eSzmARw)/View [record introductory lesson of 2021Q1](https://www.youtube.com/watch?v=D9Q1eSzmARw) - 2 hours
+> - [X] 09.07.2021 Посмотреть [запись "Как учиться в RS App"](https://www.youtube.com/watch?v=v_69DaeZ7dM)/View [record "How to study in RS App"](https://www.youtube.com/watch?v=v_69DaeZ7dM) - 1 hour
+> - [X] 10.07.2021 Прочитать [документацию о курсе](https://docs.rs.school/)/Read [course documentation](https://docs.rs.school/)
+> - [X] 08.03.2019 Cоздать [GitHub аккаунт](https://github.com/Lisouskij/)/Create [GitHub account](https://github.com/Lisouskij/)
+> - [X] 08.07.2021 Заполнить студенческий [профайл в RS APP](https://app.rs.school/). Вход через [GitHub аккаунт](https://github.com/Lisouskij/)./Complete student [profile in RS APP](https://app.rs.school/)
+> - [X] 06.07.2021 Проверить [записаны ли на курс](https://app.rs.school/course/score?course=js-fe-preschool) если нет, [записаться](https://app.rs.school/registry/student?course=js-fe-preschool)/Check [have you signed up for the course](https://app.rs.school/course/score?course=js-fe-preschool)
+> - [X] 09.07.2021 [Указать в нике Discord свой GitHub аккаунт](https://docs.rs.school/#/rs-school-chats)/ Indicate [your GitHub account in the Discord nickname](https://docs.rs.school/#/rs-school-chats)
+> - [X] 08.07.2021 Сохранить в закладки [расписание курса](https://app.rs.school/course/schedule?course=js-fe-preschool)/Bookmark [course schedule](https://app.rs.school/course/schedule?course=js-fe-preschool)
+> - [X] 11.07.2021 result:100% Выполнить тест "RSS Test" в RS APP ([Сдача заданий в RS APP](https://docs.rs.school/#/rs-app-tasks?id=%d0%a2%d0%b5%d1%81%d1%82%d1%8b))/The "RSS Test" in RS APP  **12.07.2021 dl**
 - [ ] Модуль "Профессия "JS/Front-end разработчик"/Module "Profession "JS/Front-end developer"
 > - [X] 06.07.2021 Посмотреть [запись вебинара](https://www.youtube.com/watch?v=5g1U06QjWZk).
 > - [ ] Ознакомиться с [требованиями к JS/Front-end разработчику в EPAM](https://github.com/rolling-scopes-school/tasks/blob/master/stage0/modules/js-fe-developer/js-l1-position-requirements.md)
 > - [ ] Прочесть [рекомендации по изучению английского языка](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/materials/english.md)
 >> Полезные ссылки/Helpful links
->> - [ ] [Запись YouTube стрима "Профориентация" - 1.5 часа](https://www.youtube.com/watch?v=pQ0hr5U8RL0)
->> - [ ] [Дорожная карта JS разработчика в 2021](https://github.com/kamranahmedse/developer-roadmap)
->> - [ ] [Матрица компетентности](https://docs.google.com/spreadsheets/d/e/2PACX-1vRwSn4qxbYHSdQ428OkpArZc4Q22D8dmbzDcRXt-UzkZ1sZfGLoQmm1w-N0Rx_voKLx4i7R_k7cnQgV/pubhtml#)
->> - [ ] [Отличная книга по JS на русском](https://learn.javascript.ru/) Главы, которые желательно прочитать в первую очередь:
+>> -  [Запись YouTube стрима "Профориентация" - 1.5 часа](https://www.youtube.com/watch?v=pQ0hr5U8RL0)
+>> -  [Дорожная карта JS разработчика в 2021](https://github.com/kamranahmedse/developer-roadmap)
+>> -  [Матрица компетентности](https://docs.google.com/spreadsheets/d/e/2PACX-1vRwSn4qxbYHSdQ428OkpArZc4Q22D8dmbzDcRXt-UzkZ1sZfGLoQmm1w-N0Rx_voKLx4i7R_k7cnQgV/pubhtml#)
+>> -  [Отличная книга по JS на русском](https://learn.javascript.ru/) Главы, которые желательно прочитать в первую очередь:
 >>> - [Основы JavaScript](https://learn.javascript.ru/first-steps)
 >>> - [Объекты: основы](https://learn.javascript.ru/object-basics)
 >>> - [Типы данных](https://learn.javascript.ru/data-types)
