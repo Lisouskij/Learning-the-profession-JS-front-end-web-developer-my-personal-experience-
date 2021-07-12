@@ -16,7 +16,7 @@ Plan all [stage 0 in RS School](https://github.com/rolling-scopes-school/tasks/b
 > - [X] 09.07.2021 [Указать в нике Discord свой GitHub аккаунт](https://docs.rs.school/#/rs-school-chats)/ Indicate [your GitHub account in the Discord nickname](https://docs.rs.school/#/rs-school-chats)
 > - [X] 08.07.2021 Сохранить в закладки [расписание курса](https://app.rs.school/course/schedule?course=js-fe-preschool)/Bookmark [course schedule](https://app.rs.school/course/schedule?course=js-fe-preschool)
 > - [X] 11.07.2021 result:100% Выполнить тест "RSS Test" в RS APP ([Сдача заданий в RS APP](https://docs.rs.school/#/rs-app-tasks?id=%d0%a2%d0%b5%d1%81%d1%82%d1%8b))/The "RSS Test" in RS APP  **12.07.2021 dl**
-- [ ] Модуль "Профессия "JS/Front-end разработчик"/Module "Profession "JS/Front-end developer"
+- [X] Модуль "Профессия "JS/Front-end разработчик"/Module "Profession "JS/Front-end developer"
 > - [X] 06.07.2021 Посмотреть [запись вебинара](https://www.youtube.com/watch?v=5g1U06QjWZk)/Watch [webinar recording](https://www.youtube.com/watch?v=5g1U06QjWZk)
 > - [X] 11.07.2021 Ознакомиться с [требованиями к JS/Front-end разработчику в EPAM](https://github.com/rolling-scopes-school/tasks/blob/master/stage0/modules/js-fe-developer/js-l1-position-requirements.md)/Check out [JS / Front-end developer requirements at EPAM](https://github.com/rolling-scopes-school/tasks/blob/master/stage0/modules/js-fe-developer/js-l1-position-requirements.md)
 > - [X] 11.07.2021 Прочесть [рекомендации по изучению английского языка](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/materials/english.md)/Read [tips for learning English](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/materials/english.md)
@@ -30,15 +30,15 @@ Plan all [stage 0 in RS School](https://github.com/rolling-scopes-school/tasks/b
 >>> - [Типы данных](https://learn.javascript.ru/data-types)
 >>> - [Документ](https://learn.javascript.ru/document)
 >>> - [Введение в события](https://learn.javascript.ru/events)
-- [ ] Модуль "Основы HTML" /HTML Basics Module
-> - [ ] Пройти [интерактивный курс](https://ru.code-basics.com/languages/html) (11 часов)
-> - [ ] Пройти тест "Test HTML Basics [RU]" в RS APP > Auto Test **12.07.2021 deadline**
->> Дополнительные материалы
->> - [ ] https://webref.ru/course/html-basics - 2h
->> - [ ] https://webref.ru/course/html-content - 2h
->> - [ ] https://webref.ru/course/html-tutorial - 4h
->> - [ ] https://webref.ru/course/section - 2h
->> - [ ] https://webref.ru/course/html5-form - 2h
+- [X] 12.07.2021 Модуль "Основы HTML" /HTML Basics Module
+> - [X] 12.07.2021 Пройти [интерактивный курс](https://ru.code-basics.com/languages/html) (11 часов)/Take [interactive course](https://ru.code-basics.com/languages/html) (11 hours)
+> - [X] 12.07.2021 result:100% Пройти тест "Test HTML Basics [RU]" в RS APP > Auto Test/Take the test **12.07.2021 deadline**
+>> Дополнительные материалы/Additional materials:
+>> - https://webref.ru/course/html-basics - 2h
+>> - https://webref.ru/course/html-content - 2h
+>> - https://webref.ru/course/html-tutorial - 4h
+>> - https://webref.ru/course/section - 2h
+>> - https://webref.ru/course/html5-form - 2h
 2. **Неделя #2/Week #2**
 - [ ] Модуль "Chrome Dev Tools, VS Code, Terminal"/Module "Chrome Dev Tools, VS Code, Terminal"
 - [ ] Модуль "Знакомство с системой контроля версий Git"/Introduction to Git Version Control Module
