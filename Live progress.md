@@ -16,7 +16,7 @@ Plan all [stage 0 in RS School](https://github.com/rolling-scopes-school/tasks/b
 > - [X] 09.07.2021 [Указать в нике Discord свой GitHub аккаунт](https://docs.rs.school/#/rs-school-chats)/ Indicate [your GitHub account in the Discord nickname](https://docs.rs.school/#/rs-school-chats)
 > - [X] 08.07.2021 Сохранить в закладки [расписание курса](https://app.rs.school/course/schedule?course=js-fe-preschool)/Bookmark [course schedule](https://app.rs.school/course/schedule?course=js-fe-preschool)
 > - [X] 11.07.2021 result:100% Выполнить тест "RSS Test" в RS APP ([Сдача заданий в RS APP](https://docs.rs.school/#/rs-app-tasks?id=%d0%a2%d0%b5%d1%81%d1%82%d1%8b))/The "RSS Test" in RS APP  **12.07.2021 dl**
-- [X] Модуль "Профессия "JS/Front-end разработчик"/Module "Profession "JS/Front-end developer"
+- [X] 11.07.2021 [Модуль "Профессия "JS/Front-end разработчик"/Module "Profession "JS/Front-end developer"](https://github.com/rolling-scopes-school/tasks/tree/master/stage0/modules/js-fe-developer)
 > - [X] 06.07.2021 Посмотреть [запись вебинара](https://www.youtube.com/watch?v=5g1U06QjWZk)/Watch [webinar recording](https://www.youtube.com/watch?v=5g1U06QjWZk)
 > - [X] 11.07.2021 Ознакомиться с [требованиями к JS/Front-end разработчику в EPAM](https://github.com/rolling-scopes-school/tasks/blob/master/stage0/modules/js-fe-developer/js-l1-position-requirements.md)/Check out [JS / Front-end developer requirements at EPAM](https://github.com/rolling-scopes-school/tasks/blob/master/stage0/modules/js-fe-developer/js-l1-position-requirements.md)
 > - [X] 11.07.2021 Прочесть [рекомендации по изучению английского языка](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/materials/english.md)/Read [tips for learning English](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/materials/english.md)
@@ -30,7 +30,7 @@ Plan all [stage 0 in RS School](https://github.com/rolling-scopes-school/tasks/b
 >>> - [Типы данных](https://learn.javascript.ru/data-types)
 >>> - [Документ](https://learn.javascript.ru/document)
 >>> - [Введение в события](https://learn.javascript.ru/events)
-- [X] 12.07.2021 Модуль "Основы HTML" /HTML Basics Module
+- [X] 12.07.2021 [Модуль "Основы HTML" /HTML Basics Module](https://github.com/rolling-scopes-school/tasks/tree/master/stage0/modules/html-basics)
 > - [X] 12.07.2021 Пройти [интерактивный курс](https://ru.code-basics.com/languages/html) (11 часов)/Take [interactive course](https://ru.code-basics.com/languages/html) (11 hours)
 > - [X] 12.07.2021 result:100% Пройти тест "Test HTML Basics [RU]" в RS APP > Auto Test/Take the test **12.07.2021 deadline**
 >> Дополнительные материалы/Additional materials:
