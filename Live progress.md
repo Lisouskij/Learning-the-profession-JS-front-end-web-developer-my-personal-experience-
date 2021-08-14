@@ -40,20 +40,20 @@ Plan all [stage 0 in RS School](https://github.com/rolling-scopes-school/tasks/b
 >> - https://webref.ru/course/section - 2h
 >> - https://webref.ru/course/html5-form - 2h
 2. **Неделя #2/Week #2**
-- [ ] Модуль "Chrome Dev Tools, VS Code, Terminal"/Module "Chrome Dev Tools, VS Code, Terminal"
-- [ ] Модуль "Знакомство с системой контроля версий Git"/Introduction to Git Version Control Module
-- [ ] Модуль "Основы CSS"/CSS Basics Module
-- [ ] Проект "CV". Часть 1 "Markdown & Git"/Project "CV". Part 1 "Markdown & Git"
+- [X] Модуль "Chrome Dev Tools, VS Code, Terminal"/Module "Chrome Dev Tools, VS Code, Terminal"
+- [X] Модуль "Знакомство с системой контроля версий Git"/Introduction to Git Version Control Module
+- [X] Модуль "Основы CSS"/CSS Basics Module
+- [X] Проект "CV". Часть 1 "Markdown & Git"/Project "CV". Part 1 "Markdown & Git"
 3. **Неделя #3/Week #3**
-- [ ] Проект "CV. Часть 2 и 3."/Project "CV. Part 2 and 3."
-- [ ] Модуль "Позиционирование в CSS. Flex."/Module "Positioning in CSS. Flex."
+- [X] Проект "CV. Часть 2 и 3."/Project "CV. Part 2 and 3."
+- [X] Модуль "Позиционирование в CSS. Flex."/Module "Positioning in CSS. Flex."
 4. **Неделя #4/Week #4**
-- [ ] Кросс-чек проверка проекта "CV"/Cross-check verification of the "CV" project
-- [ ] Модуль "Figma"/Figma module
-- [ ] Проект "Museum. Stage#0"/Project "Museum. Stage # 0"
+- [X] Кросс-чек проверка проекта "CV"/Cross-check verification of the "CV" project
+- [X] Модуль "Figma"/Figma module
+- [X] Проект "Museum. Stage#0"/Project "Museum. Stage # 0"
 5. **Неделя #5/Week #5**
-- [ ] Кросс-чек проверка проекта "Museum. Stage#0"/Cross-check verification of the project "Museum. Stage # 0"
-- [ ] Модуль "Знакомство с JavaScript"/Learn JavaScript module
+- [X] Кросс-чек проверка проекта "Museum. Stage#0"/Cross-check verification of the project "Museum. Stage # 0"
+- [X] Модуль "Знакомство с JavaScript"/Learn JavaScript module
 6. **Неделя #6/Week #6**
 - [ ] Модуль "Закрепление основ JavaScript. Типы данных"/Plugin "Pinning JavaScript Basics. Data Types"
 - [ ] Модуль "Закрепление основ JavaScript. Функции"/Plugin "Pinning JavaScript Basics. Functions"
